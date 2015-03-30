@@ -1,6 +1,6 @@
 # mywebsite
 
-Proposal to Build and Localize a Website
+# Proposal to Build and Localize a Website
 by Wenting Zhou
 
 Goal
